@@ -10,6 +10,7 @@ public class BulletClass extends Sprite {
     private final int VerticalFromShip = 15;
     private BufferedImage bulletImg;
 //checking working git
+    //working
     public BulletClass() {
         //Metoda jest pusta i nie zawiera zmiennych, zaczytujemy ja w PlayScreen, metoda ponizej ustawia pocisk na graczu.
     }
